@@ -11,6 +11,7 @@ Simulation d'un bras robotique 6 axes avec ROS2, Gazebo et MoveIt2, capable de s
 - C++ / Python
 
 
+https://github.com/user-attachments/assets/622c1a71-d399-40d4-a956-b1d5fac0d22c
 ## Lancement
 
 ```bash
