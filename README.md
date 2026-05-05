@@ -4,7 +4,7 @@ Simulation d'un bras robotique 6 axes avec ROS2, Gazebo et MoveIt2, capable de s
 
 ## Technologies utilisées
 
-- ROS2 Humble
+- ROS2 Jazzy
 - Gazebo
 - ros2_control
 - MoveIt2
