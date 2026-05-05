@@ -18,6 +18,3 @@ ros2 launch arm_robot start.launch.py
 ros2 run arm_robot pick_and_place
 ```
 
-## Auteur
-
-**Hind Kanoun** — [@Hind728](https://github.com/Hind728)
